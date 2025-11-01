@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/affinityphotomac">  
+<a href="https://app-get-osx.github.io/.github/sfsdfgs">  
 <img src="https://img.shields.io/badge/Get_Affinity_Photo_for_macOS-0ABAB5?style=for-the-badge&logo=apple" alt="Get Affinity Photo for macOS">  
 </a>  
 </div>  
